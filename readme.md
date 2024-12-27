@@ -1,4 +1,4 @@
 ## Welcome to Git
--This is coming from 'dev-adrian'
+- This is coming from 'dev-adrian'
 
--I am adding this from b2 branch
+- I am adding this from b2 branch
